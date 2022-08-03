@@ -12,11 +12,14 @@ This Extension is used for custom admin theme color now available for blue theme
 
 ## Introduction installation:
 
-### Install Magento 2 Prevent Add to Cart Not Login
+### Option 1: Manual installation
 - Download file
 - Unzip the file
 - Create a folder [root]/app/code/SimoneChinaglia/Admintheme
 - Copy to folder
+
+### Option 2: Composer installation (suggest)
+- composer require simonechinaglia/admintheme
 
 ### Enable Extension
 
