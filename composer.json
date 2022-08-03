@@ -1,0 +1,21 @@
+{
+  "name": "simonechinaglia/admintheme",
+  "description": "A magento skin for backend",
+  "type": "magento2-module",
+  "version": "1.0.4",
+  "minimum-stability": "stable",
+  "license": "Apache-2.0",
+  "authors": [{
+    "name": "Simone Chinaglia",
+    "email": "hello@simonechinaglia.net",
+    "role": "lead"
+  }],
+  "autoload": {
+    "files": [
+      "registration.php"
+    ],
+    "psr-4": {
+      "SimoneChinaglia\\Admintheme\\": ""
+    }
+  }
+}

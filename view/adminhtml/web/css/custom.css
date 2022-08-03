@@ -1,6 +1,6 @@
 /*Login layout*/
 .page-layout-admin-login {
-    background: #5680E9 !important;
+    background: #0000 !important;
 }
 
 .page-layout-admin-login .page-wrapper{
@@ -8,7 +8,7 @@
 }
 
 .page-layout-admin-login .admin__legend{
-    color: #5680E9 !important;
+    color: #000000 !important;
 }
 
 a.action-forgotpassword{
@@ -38,8 +38,8 @@ button.primary,
 .page-actions > .block-footer .action-add.primary,
 .page-actions .page-actions-buttons > .block-footer .action-add.primary,
 .page-actions-buttons button.ordersuccess-current {
-    background-color: #8860D0 !important;
-    border-color: #8860D0 !important;
+    background-color: #000000 !important;
+    border-color: #000000 !important;
     color: #fff !important;
     text-shadow: none !important;
 }
@@ -81,21 +81,21 @@ button.primary:focus,
 .page-actions .page-actions-buttons > .block-footer .action-add.primary:hover,
 .page-actions .page-actions-buttons > .block-footer .action-add.primary:active,
 .page-actions .page-actions-buttons > .block-footer .action-add.primary:focus{
-    background-color: #5680E9 !important;
-    border-color: #5680E9 !important;
+    background-color: #000000 !important;
+    border-color: #000000 !important;
 }
 
 /*font primary color*/
 .page-layout-admin-login .admin__legend,
 .dashboard-totals-item:first-child .price,
 .dashboard-item-primary:first-child .dashboard-sales-value{
-    color: #8860D0 !important;
+    color: #000000 !important;
 }
 
 .menu-wrapper:before,
 .data-grid th,
 .admin__menu [class*='level-']:not(.level-0) a:hover {
-    background-color: #5680E9 !important;
+    background-color: #000000 !important;
 }
 
 .admin__menu .level-0>a{
@@ -105,7 +105,7 @@ button.primary:focus,
 .admin__menu .level-0:hover>a,
 .admin__menu .level-0>.submenu,
 .admin__menu .level-0._active>a{
-    background-color: #5AB9EA !important;
+    background-color: #000000 !important;
 }
 
 .admin__menu .level-0>.submenu{
@@ -121,5 +121,5 @@ button.primary:focus,
 }
 
 .tabs-horiz .ui-state-active .ui-tabs-anchor{
-    border-top: .4rem solid #8860D0 !important;
+    border-top: .4rem solid #000000 !important;
 }
